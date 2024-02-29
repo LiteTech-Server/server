@@ -1,0 +1,9 @@
+{
+    "aes_key": "",
+    "name": "",
+    "password": "",
+    "server_hostname": "",
+    "server_port": 30001,
+    "enable": true,
+    "debug": false
+}

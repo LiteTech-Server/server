@@ -1,0 +1,9 @@
+{
+    "title": "TaskManager",
+    "done": false,
+    "description": "",
+    "sub_tasks": [],
+    "deadline": 0,
+    "permission": 0,
+    "priority": null
+}

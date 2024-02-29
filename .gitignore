@@ -1,0 +1,11 @@
+# MCDR Files
+server-*/qb_multi
+server-*/pcrc
+
+# Minecraft Files
+server
+!server_ProxyServer/*
+
+# Global
+logs
+crash-reports
