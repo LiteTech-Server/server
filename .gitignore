@@ -11,3 +11,4 @@ logs
 crash-reports
 /.vs/LiteTech/FileContentIndex
 /.vs
+.DS_Store
