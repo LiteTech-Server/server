@@ -5,10 +5,22 @@ server-*/pcrc
 # Minecraft Files
 server-*/server/*
 !server-*/server/config
+!server-*/server/whitelist.json
+
+# Proxy Server
+server-proxy/modules
+server-proxy/start.cmd
+server-proxy/*.jar
+
+# Mod Configs
 server-*/server/config/spark
 server-*/server/config/luckperms
-tmp
-translations
+spark/tmp
+*.sparkheap
+luckperms/translations
+worldedit/assets
+worldedit/schematics
+worldedit/sessions
 .archive-unpack
 
 # Global
