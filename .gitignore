@@ -3,12 +3,18 @@ server-*/qb_multi
 server-*/pcrc
 
 # Minecraft Files
-server
-!server_ProxyServer/*
+server-*/server/*
+!server-*/server/config
+server-*/server/config/spark
+server-*/server/config/luckperms
+tmp
+translations
+.archive-unpack
 
 # Global
 logs
 crash-reports
+*.log
 /.vs/LiteTech/FileContentIndex
 /.vs
 .DS_Store

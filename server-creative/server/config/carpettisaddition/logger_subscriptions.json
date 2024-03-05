@@ -1,0 +1,80 @@
+{
+  "163385ce-24ef-4da0-b4f3-b7b9836ca8fa": {
+    "memory": null,
+    "damage": "me",
+    "wanderingTrader": null,
+    "mobcaps": null,
+    "mobcapsLocal": null,
+    "lifetime": "zombified_piglin",
+    "tps": null
+  },
+  "ec497e17-019b-4fd4-b82c-5fac2041b9eb": {
+    "mobcaps": null,
+    "tps": null
+  },
+  "0dfe0d1f-e1e4-4e3e-9712-61b69bf8cc3c": {
+    "tps": null,
+    "mobcaps": "dynamic",
+    "memory": null
+  },
+  "f43470f3-7641-4ee8-9556-dc2cf1e2590e": {
+    "tps": null,
+    "mobcaps": null
+  },
+  "b56bd43c-e4e9-4b9d-8890-896e8b3ab406": {
+    "mobcaps": null
+  },
+  "1f7edddf-9bc7-43e9-bfd3-f553cc7d1eff": {
+    "mobcaps": null
+  },
+  "d58b4551-f738-47e5-b55a-901d312b8696": {
+    "tps": null
+  },
+  "80e87ad0-cbad-4ec6-8e70-d8ede5de1911": {
+    "tps": null,
+    "packets": null,
+    "mobcaps": null
+  },
+  "85ed414d-eed6-49d4-8809-9786f0d9081a": {
+    "tps": null,
+    "memory": null,
+    "mobcaps": "dynamic"
+  },
+  "e8aebdeb-48d2-431e-a7c6-d6cc8675610c": {
+    "tps": null,
+    "memory": null,
+    "mobcaps": "dynamic"
+  },
+  "ff686d21-e336-4e55-a0fd-e177cc3eed1a": {
+    "tps": null
+  },
+  "53a8d8b5-351a-4f22-a527-6831da7cecbd": {
+    "tps": null,
+    "counter": null
+  },
+  "db895047-9927-40bb-b871-bc47b77e3721": {
+    "memory": null,
+    "tps": null,
+    "mobcaps": null
+  },
+  "35108cf7-3f74-455c-8a01-78d0fe5336fb": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "75bd153e-271f-46b4-a3a2-147ab0613418": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "d307c074-6a15-476c-a14f-156a4506622f": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "76a1ba5d-9b10-487d-9ce8-a4e88b12748b": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  }
+}
