@@ -1,0 +1,27 @@
+{
+  "enabled": true,
+  "world_name": "World",
+  "server_name": "Server",
+  "chunk_recording_path": "./recordings/chunks",
+  "player_recording_path": "./recordings/players",
+  "max_file_size": "0GB",
+  "restart_after_max_file_size": false,
+  "recover_unsaved_replays": true,
+  "include_compressed_in_status": true,
+  "fixed_daylight_cycle": -1,
+  "pause_unloaded_chunks": false,
+  "pause_notify_players": true,
+  "notify_admins_of_status": true,
+  "fix_carpet_bot_view_distance": false,
+  "ignore_sound_packets": false,
+  "ignore_light_packets": true,
+  "ignore_chat_packets": false,
+  "ignore_scoreboard_packets": false,
+  "optimize_explosion_packets": true,
+  "optimize_entity_packets": false,
+  "player_predicate": {
+    "type": "none"
+  },
+  "chunks": [
+  ]
+}

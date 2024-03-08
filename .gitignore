@@ -1,6 +1,12 @@
 # MCDR Files
 server-*/qb_multi
+<<<<<<< HEAD
 server-*/pcrc
+=======
+server-*/pb_files
+server-*/pcrc
+server-*/plugins
+>>>>>>> origin/stable
 
 # Minecraft Files
 server-*/server/*

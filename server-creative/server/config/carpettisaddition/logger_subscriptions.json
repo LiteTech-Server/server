@@ -3,7 +3,11 @@
     "memory": null,
     "damage": "me",
     "wanderingTrader": null,
+<<<<<<< HEAD
     "mobcaps": null,
+=======
+    "mobcaps": "dynamic",
+>>>>>>> origin/stable
     "mobcapsLocal": null,
     "lifetime": "zombified_piglin",
     "tps": null
@@ -76,5 +80,93 @@
     "memory": null,
     "mobcaps": "dynamic",
     "tps": null
+<<<<<<< HEAD
+=======
+  },
+  "e02d53aa-b72a-4943-9ad8-16cfeafdad26": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "61569bca-bcdf-4e52-9474-4098673cf450": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "2f4c03f5-0adb-4de7-8947-b87f0050470d": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "53ec10e6-827d-48f4-ac8f-9f86c37d4d7d": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "ac81d4cc-799a-46d8-a1d4-9d68053408ea": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "875fda8d-05d1-4b10-b618-ef776694f55d": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "4d13a1ad-2bed-4969-9e1d-0ba24da95f93": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "9e0180a9-6e7d-4c38-95ae-473c6da9ece3": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "ad420014-ae6d-4a34-ae2f-2b03ff4ce3f2": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "8a37e479-cf01-4bc2-9b2e-298813724c90": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "7b303568-c2cc-4c59-9f1f-26465f20f1df": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "6e88eec3-3728-42f1-9ae4-23adda74b05a": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "95972898-26c3-4d86-95c4-130cecbb133c": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "dcf49610-d099-4522-858d-b498992314d4": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "54086dbf-0e34-4e58-a9d4-3bcab2eccf55": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "3a058a23-167b-4de5-af3c-294229d5ce86": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "d4b24a6d-0541-4870-aeb4-a9e7843100d9": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+>>>>>>> origin/stable
   }
 }
