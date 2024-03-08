@@ -36,7 +36,12 @@
     "tps": null
   },
   "e8aebdeb-48d2-431e-a7c6-d6cc8675610c": {
+<<<<<<< HEAD
+    "tps": null,
+    "tnt": null
+=======
     "tps": null
+>>>>>>> origin/stable
   },
   "53a8d8b5-351a-4f22-a527-6831da7cecbd": {
     "tps": null
@@ -324,6 +329,8 @@
     "memory": null,
     "mobcaps": "dynamic",
     "tps": null
+<<<<<<< HEAD
+=======
   },
   "0448424d-b17b-4022-80a6-4f994eadcb76": {
     "memory": null,
@@ -359,5 +366,6 @@
     "memory": null,
     "mobcaps": "dynamic",
     "tps": null
+>>>>>>> origin/stable
   }
 }

@@ -3,7 +3,11 @@
     "memory": null,
     "damage": "me",
     "wanderingTrader": null,
+<<<<<<< HEAD
+    "mobcaps": null,
+=======
     "mobcaps": "dynamic",
+>>>>>>> origin/stable
     "mobcapsLocal": null,
     "lifetime": "zombified_piglin",
     "tps": null
@@ -76,6 +80,8 @@
     "memory": null,
     "mobcaps": "dynamic",
     "tps": null
+<<<<<<< HEAD
+=======
   },
   "e02d53aa-b72a-4943-9ad8-16cfeafdad26": {
     "memory": null,
@@ -161,5 +167,6 @@
     "memory": null,
     "mobcaps": "dynamic",
     "tps": null
+>>>>>>> origin/stable
   }
 }

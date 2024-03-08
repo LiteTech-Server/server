@@ -29,6 +29,21 @@
     },
     "slots": [
         {
+<<<<<<< HEAD
+            "delete_protection": 0
+        },
+        {
+            "delete_protection": 0
+        },
+        {
+            "delete_protection": 1800
+        },
+        {
+            "delete_protection": 3600
+        },
+        {
+            "delete_protection": 14400
+=======
             "delete_protection": 3600
         },
         {
@@ -45,14 +60,18 @@
         },
         {
             "delete_protection": 43200
+>>>>>>> origin/stable
         },
         {
             "delete_protection": 57600
         },
         {
+<<<<<<< HEAD
+=======
             "delete_protection": 86400
         },
         {
+>>>>>>> origin/stable
             "delete_protection": 129600
         }
     ]

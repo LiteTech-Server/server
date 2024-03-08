@@ -23,10 +23,13 @@
     "cls": "custom",
     "target": "play_time",
     "title": "在线榜"
+<<<<<<< HEAD
+=======
   },
   "bucket": {
     "cls": "used",
     "target": "bucket",
     "title": "清岩浆"
+>>>>>>> origin/stable
   }
 }
