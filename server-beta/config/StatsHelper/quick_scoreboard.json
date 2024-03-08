@@ -1,0 +1,12 @@
+{
+  "k": {
+    "cls": "killed",
+    "target": "#all",
+    "title": "击杀"
+  },
+  "kz": {
+    "cls": "killed",
+    "target": "zombie",
+    "title": "击杀僵尸"
+  }
+}

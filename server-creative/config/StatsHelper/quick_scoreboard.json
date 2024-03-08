@@ -1,0 +1,7 @@
+{
+  "test": {
+    "cls": "crafted",
+    "target": "#all",
+    "title": "合成榜"
+  }
+}

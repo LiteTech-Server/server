@@ -1,0 +1,7 @@
+{
+    "minimum_stack_edit_perm": 3,
+    "stack_per_page": 10,
+    "time_after_execute": 0.1,
+    "timed_command_interval": 30.0,
+    "timed_command_enabled": true
+}
