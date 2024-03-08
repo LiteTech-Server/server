@@ -1,0 +1,23 @@
+{
+  "placements": [
+    {
+      "id": "364b35f7-2506-44b0-a61d-bd57368ba697",
+      "file_name": "佛冷72K刷冰機_無預填",
+      "hash": "d152d5f7-9944-3b23-88a0-6070afa459dd",
+      "origin": {
+        "position": [
+          3209,
+          246,
+          5841
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "ec497e17-019b-4fd4-b82c-5fac2041b9eb",
+        "name": "Insane_Rabbit"
+      }
+    }
+  ]
+}

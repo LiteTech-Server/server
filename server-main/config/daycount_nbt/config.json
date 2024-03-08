@@ -1,0 +1,10 @@
+{
+    "commands": [
+        "!!day",
+        "!!days"
+    ],
+    "nbt_mode": true,
+    "nbt_file": "server/world/level.dat",
+    "start_date": "2023-11-03",
+    "day_text": "LiteTech已经持续运作了{day}天"
+}

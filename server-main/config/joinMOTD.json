@@ -1,0 +1,15 @@
+{
+    "serverName": "LiteTech",
+    "mainServerName": "LiteTech Main",
+    "serverList": [
+        "survival",
+        "lobby",
+        {
+            "name": "Creative",
+            "description": "CMP Server#1",
+            "category": "CMP"
+        }
+    ],
+    "start_day": "2023-11-03",
+    "daycount_plugin_ids": []
+}

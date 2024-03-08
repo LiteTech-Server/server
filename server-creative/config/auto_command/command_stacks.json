@@ -1,0 +1,12 @@
+{
+    "server_start": {
+        "desc": "服务器开启时发送指令堆",
+        "perm": 3,
+        "command": []
+    },
+    "timed_command": {
+        "desc": "间隔§b30.0§r分钟发送指令堆",
+        "perm": 3,
+        "command": []
+    }
+}
