@@ -2,6 +2,7 @@
 server-*/qb_multi
 server-*/pb_files
 server-*/pcrc
+server-*/plugins
 
 # Minecraft Files
 server-*/server/*
