@@ -1,0 +1,25 @@
+{
+    "bot_prefix": "bot_",
+    "player_join": {
+        "enable": true,
+        "scope": "player",
+        "message": [
+            "<text>§5欢迎来到lite.tech！现在您位于代理服，点击下方切换服务器</text>",
+            "<command(v=/server main)>生存服</command>",
+            "<command(v=/server creative)>创造服</command>"
+        ]
+    },
+    "player_left": {
+        "enable": false,
+        "scope": "player",
+        "message": [
+            "<text>§5{player}§r离开了游戏</text>"
+        ]
+    },
+    "random_text": {
+        "hitokoto": [
+            "内心湛然，则无往而不乐",
+            "§6万法缘生，皆系缘分§r"
+        ]
+    }
+}
