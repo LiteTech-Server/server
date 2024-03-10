@@ -8,6 +8,11 @@ server-*/plugins
 server-*/server/*
 !server-*/server/config
 !server-*/server/whitelist.json
+!server-*/server/config.yml
+!server-*/server/locations.yml
+!server-*/server/modules.yml
+!server-*/server/waterfall.yml
+!server-*/server/server.properties
 
 # Proxy Server
 server-proxy/modules
