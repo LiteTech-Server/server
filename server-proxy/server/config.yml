@@ -9,6 +9,7 @@ listeners:
     pvp.md-5.net: pvp
   ping_passthrough: false
   priorities:
+  - beta
   - main
   - creative
   bind_local_address: true
@@ -54,4 +55,8 @@ servers:
   creative:
     motd: '&1This is the mirror creative server of LiteTech'
     address: localhost:25500
+    restricted: false
+  beta:
+    motd: '&1This is the beta server of LiteTech'
+    address: localhost:25560
     restricted: false
