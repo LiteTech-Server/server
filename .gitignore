@@ -1,3 +1,4 @@
+
 # MCDR Files
 server-*/qb_multi
 server-*/pb_files
@@ -8,11 +9,11 @@ server-*/plugins
 server-*/server/*
 !server-*/server/config
 !server-*/server/whitelist.json
-!server-proxy/server/config.yml
-!server-proxy/server/locations.yml
-!server-proxy/server/modules.yml
-!server-proxy/server/waterfall.yml
-!server-proxy/server/server.properties
+!server-*/server/config.yml
+!server-*/server/locations.yml
+!server-*/server/modules.yml
+!server-*/server/waterfall.yml
+!server-*/server/server.properties
 
 # Proxy Server
 server-proxy/modules
