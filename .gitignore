@@ -1,19 +1,17 @@
-
 # MCDR Files
 server-*/qb_multi
+<<<<<<< HEAD
+server-*/pcrc
+=======
 server-*/pb_files
 server-*/pcrc
 server-*/plugins
+>>>>>>> origin/stable
 
 # Minecraft Files
 server-*/server/*
 !server-*/server/config
 !server-*/server/whitelist.json
-!server-proxy/server/config.yml
-!server-proxy/server/locations.yml
-!server-proxy/server/modules.yml
-!server-proxy/server/waterfall.yml
-!server-proxy/server/server.properties
 
 # Proxy Server
 server-proxy/modules
@@ -39,4 +37,3 @@ crash-reports
 /.vs
 .DS_Store
 *.pdf
-/server-proxy/nohup.out
