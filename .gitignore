@@ -37,3 +37,4 @@ crash-reports
 /.vs
 .DS_Store
 *.pdf
+/server-proxy/nohup.out
