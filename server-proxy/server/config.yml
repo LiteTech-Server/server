@@ -9,6 +9,7 @@ listeners:
     pvp.md-5.net: pvp
   ping_passthrough: false
   priorities:
+  - beta
   - main
   - creative
   bind_local_address: true
@@ -34,7 +35,7 @@ server_connect_timeout: 5000
 timeout: 30000
 stats: add0ad36-27a7-4382-a4ac-a982cf8ebf2f
 player_limit: -1
-ip_forward: true
+ip_forward: false
 groups:
   md_5:
   - admin
@@ -54,4 +55,8 @@ servers:
   creative:
     motd: '&1This is the mirror creative server of LiteTech'
     address: localhost:25500
+    restricted: false
+  beta:
+    motd: '&1This is the beta server of LiteTech'
+    address: localhost:25560
     restricted: false
