@@ -44,7 +44,7 @@ connection_throttle: 4000
 log_commands: false
 prevent_proxy_connections: false
 online_mode: true
-forge_support: true
+forge_support: false
 disabled_commands:
 - disabledcommandhere
 servers:
