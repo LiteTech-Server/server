@@ -3,6 +3,7 @@ server-*/qb_multi
 server-*/pb_files
 server-*/pcrc
 server-*/plugins
+server-*/permission.yml
 server-*/config/StatsHelper/*
 !server-*/config/StatsHelper/config.json
 
