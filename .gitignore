@@ -1,9 +1,10 @@
-
 # MCDR Files
 server-*/qb_multi
 server-*/pb_files
 server-*/pcrc
 server-*/plugins
+server-*/config/StatsHelper/*
+!server-*/config/StatsHelper/config.json
 
 # Minecraft Files
 server-*/server/*
