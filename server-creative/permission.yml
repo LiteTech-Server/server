@@ -25,11 +25,25 @@ admin:
 - ziyu_caviar
 - Loader
 - Mangelious
+<<<<<<< HEAD
+- bot_1
+- bot_2
+- Insane_Rabbit
+- Bot_123
+- bot_3
+- Qonctrol
+- CherryBreath
+- Bot_4
+- RuRuTTa
+- sldkc
+- bot_5
+=======
 - Insane_Rabbit
 - Qonctrol
 - CherryBreath
 - RuRuTTa
 - sldkc
+>>>>>>> origin/stable
 - bailinp4
 - Trice054
 - Le_Tian_
@@ -39,6 +53,8 @@ admin:
 - importboy
 - Bot_Steve
 - NoCodeRockStar
+<<<<<<< HEAD
+=======
 - Tiking_
 - Hannibal4869
 - RCU_gali
@@ -47,6 +63,7 @@ admin:
 - bot_3
 - Bot_4
 - bot_5
+>>>>>>> origin/stable
 - Bot_6
 - BOT_7
 - bot_8
@@ -56,7 +73,13 @@ admin:
 - bot_12
 - Bot_13
 - bot_14
-- ByLong_Ge
+<<<<<<< HEAD
+- BOT_15
+- Bot_16
+- Tiking_
+- Hannibal4869
+=======
+>>>>>>> origin/stable
 helper:
 user:
 guest:
