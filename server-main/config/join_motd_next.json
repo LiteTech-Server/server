@@ -4,19 +4,21 @@
         "enable": true,
         "scope": "player",
         "message": [
+            "",
             "<text>§6§l/////////////// Lite§7§lTech§6§l ///////////////</text>",
             "<text>这里是§l生存服§r, 点击下方文本切换服务器</text>",
-            "<command(h=加入!)(v=/server main)>[§n生存服§r] </command><command(h=加入!)(v=/server creative)> [§n创造服§r] </command><text(h=施工中...)> [§7镜像服§r]</text>",
+            "<command(h=加入!)(v=/server main)>[§n生存服§r]</command><text>   </text><command(h=加入!)(v=/server creative)>[§n创造服§r]</command><text>   </text><text(h=施工中...)>[§7镜像服§r]</text>",
             "<text>§7-------</text>",
             "<text>{random_survival_text}</text>",
-            "<text>§6§l////////////////////////////////////////</text>"
+            "<text>§6§l////////////////////////////////////////</text>",
+            ""
         ]
     },
     "player_left": {
         "enable": true,
-        "scope": "player",
+        "scope": "all",
         "message": [
-            "<text>§7[§c-§c§7] §r/{player}§c{random_left_text}</text>"
+            "<text>§7[§c-§7] §r/{player}§7{random_left_text}</text>"
         ]
     },
     "random_text": {
@@ -26,7 +28,7 @@
             "Let there be light.\n    §7—— Genesis 1:3",
             "Art is the proper task of life.\n    §7—— Friedrich Nietzsche",
             "Good artists copy, great artists steal.\n    §7—— Pablo Picasso",
-            "Sometimes it is the people no one can imagine anything of who do the things no one can imagine.    §7—— Alan Turing",
+            "Sometimes it is the people no one can imagine anything of who do the things no one can imagine.\n    §7—— Alan Turing",
             "The aim of art is to represent not the outward appearance of things, but their inward significance.\n    §7—— Aristotle"
         ],
         "random_survival_text": [
@@ -38,8 +40,8 @@
             "扣1送不死图腾",
             "孩子们，我回来了",
             "Fate/Grand Order是世界上最好的手游",
-            "你说的对，但是《原神》是由米哈游自主研发的一款全新开放世界冒险游戏。游戏发生在一个被称作「提瓦特」的幻想世界，在这里，被神选中的人将被授予「神之眼」，导引元素之力‌​​​‌‌‌‌‌‌‌‌​​‌‌​‌‌‌​‌​。你将扮演一位名为「旅行者」的神秘角色，在自由的旅行中邂逅性格各异、能力独特的同伴们，和他们一起击败强敌，找回失散的亲人——同时，逐步发掘「原神」的真相。",
-            "兄弟，你好香"
+            "兄弟，你好香",
+            "欢迎各位小登老登游玩本服务器 §7§ofrom @KindishProject"
         ],
         "random_left_text": [
             "消失了",
@@ -55,7 +57,9 @@
             "布响丸辣",
             "去看皮套人了",
             "今天要早睡",
-            "忘了关刷沙机"
+            "忘了关刷沙机",
+            "羽化而登仙",
+            "趋势了, 扣1复活ta"
         ]
     }
 }
