@@ -4,22 +4,20 @@
         "enable": true,
         "scope": "player",
         "message": [
-            "<text>§e欢迎来到lite.tech！现在您位于创造服，点击下方切换服务器</text>",
-            "<command(v=/server main)>[生存服]</command>",
-            "<command(v=/server creative)>[创造服]</command>"
+            "<fill>§l§6//////////////////////////////</fill>",
+            "<fill>这里是§l创造服§r, 点击下方文本切换服务器</fill>",
+            "<command(v=/server main)>[ §n生存服§r ]</command>",
+            "<command(v=/server creative)>[ §n创造服§r ]</command>",
+            "<fill>[ §7镜像服(施工中)§r ]</fill>",
+            "<fill>§l§6//////////////////////////////</fill>"
         ]
     },
     "player_left": {
-        "enable": false,
+        "enable": true,
         "scope": "player",
         "message": [
             "<text>§5{player}§r离开了游戏</text>"
         ]
     },
-    "random_text": {
-        "hitokoto": [
-            "内心湛然，则无往而不乐",
-            "§6万法缘生，皆系缘分§r"
-        ]
-    }
+    "random_text": {}
 }
