@@ -1,15 +1,24 @@
 {
-    "serverName": "LiteTech",
-    "mainServerName": "LiteTech Main",
+    "serverName": "Survival Server",
+    "mainServerName": "My Server",
     "serverList": [
         "survival",
         "lobby",
         {
-            "name": "Creative",
+            "name": "creative1",
             "description": "CMP Server#1",
+            "category": "CMP"
+        },
+        {
+            "name": "creative2",
+            "description": "CMP Server#2",
             "category": "CMP"
         }
     ],
-    "start_day": "2023-11-03",
-    "daycount_plugin_ids": []
+    "start_day": null,
+    "daycount_plugin_ids": [
+        "mcd_daycount",
+        "day_count_reforged",
+        "daycount_nbt"
+    ]
 }

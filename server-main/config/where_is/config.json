@@ -13,7 +13,7 @@
     },
     "broadcast_to_console": true,
     "permission_requirements": {
-        "where_is": 0,
+        "where_is": 1,
         "here": 0,
         "admin": 3
     },
