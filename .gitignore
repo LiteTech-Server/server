@@ -6,6 +6,7 @@ server-*/plugins
 server-*/permission.yml
 server-*/config/StatsHelper/*
 !server-*/config/StatsHelper/config.json
+server-*/config/StatsHelper/uuid.json
 
 # Minecraft Files
 server-*/server/*
@@ -31,6 +32,8 @@ server-*/server/config/worldedit/schematics
 server-*/server/config/worldedit/sessions
 .archive-unpack
 server-*/server/config/NoChatReports/README.md
+server-*/server/config/carpettisaddition/logger_subscriptions.json
+server-*/server/config/jade/usernamecache.json
 
 # Global
 logs
