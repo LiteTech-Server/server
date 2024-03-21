@@ -4,9 +4,9 @@
         "enable": true,
         "scope": "player",
         "message": [
-            "<text>§5欢迎来到lite.tech！现在您位于代理服，点击下方切换服务器</text>",
-            "<command(v=/server main)>生存服</command>",
-            "<command(v=/server creative)>创造服</command>"
+            "<text>§e欢迎来到lite.tech！现在您位于创造服，点击下方切换服务器</text>",
+            "<command(v=/server main)>[生存服]</command>",
+            "<command(v=/server creative)>[创造服]</command>"
         ]
     },
     "player_left": {

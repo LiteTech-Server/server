@@ -23,15 +23,14 @@ server-proxy/start.cmd
 server-proxy/*.jar
 
 # Mod Configs
-server-*/server/config/spark
-server-*/server/config/luckperms
-spark/tmp
+server-*/server/config/spark/tmp
 *.sparkheap
-luckperms/translations
-worldedit/assets
-worldedit/schematics
-worldedit/sessions
+server-*/server/config/luckperms/translations
+server-*/server/config/worldedit/assets
+server-*/server/config/worldedit/schematics
+server-*/server/config/worldedit/sessions
 .archive-unpack
+server-*/server/config/NoChatReports/README.md
 
 # Global
 logs

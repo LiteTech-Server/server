@@ -1,0 +1,27 @@
+[
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1699415472244,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "file",
+      "value": "./config/spark/heapsummary-2023-11-08_11.51.12.sparkheap"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "_4rcadia",
+      "uniqueId": "163385ce-24ef-4da0-b4f3-b7b9836ca8fa"
+    },
+    "time": 1699107723422,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "file",
+      "value": "./config/spark/heapsummary-2023-11-04_22.22.03.sparkheap"
+    }
+  }
+]

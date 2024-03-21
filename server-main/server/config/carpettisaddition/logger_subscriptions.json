@@ -36,12 +36,7 @@
     "tps": null
   },
   "e8aebdeb-48d2-431e-a7c6-d6cc8675610c": {
-<<<<<<< HEAD
-    "tps": null,
-    "tnt": null
-=======
     "tps": null
->>>>>>> origin/stable
   },
   "53a8d8b5-351a-4f22-a527-6831da7cecbd": {
     "tps": null
@@ -329,8 +324,6 @@
     "memory": null,
     "mobcaps": "dynamic",
     "tps": null
-<<<<<<< HEAD
-=======
   },
   "0448424d-b17b-4022-80a6-4f994eadcb76": {
     "memory": null,
@@ -366,6 +359,35 @@
     "memory": null,
     "mobcaps": "dynamic",
     "tps": null
->>>>>>> origin/stable
+  },
+  "b14f144a-790a-4d6e-bf28-c70bec15449a": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "5ce1adc1-e9f2-38dd-b0c1-1c2541418dce": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "f71d41dc-ab32-3307-b516-0a6c3fa627ca": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "b0fcae8d-07b5-3253-a496-c7f0aa40900c": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "597364c2-1d7d-3ee7-8f57-dd08d0b98922": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
+  },
+  "0728a941-6892-4034-abca-8c8714271985": {
+    "memory": null,
+    "mobcaps": "dynamic",
+    "tps": null
   }
 }

@@ -4,12 +4,13 @@
         "enable": true,
         "scope": "player",
         "message": [
-            "<text>§5{player}§r加入了游戏</text>",
-            "<text>{hitokoto}</text>"
+            "<text>§6欢迎来到lite.tech！现在您位于生存服，点击下方切换服务器</text>",
+            "<command(v=/server main)>[生存服]</command>",
+            "<command(v=/server creative)>[创造服]</command>"
         ]
     },
     "player_left": {
-        "enable": true,
+        "enable": false,
         "scope": "player",
         "message": [
             "<text>§5{player}§r离开了游戏</text>"
