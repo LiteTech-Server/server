@@ -3,8 +3,8 @@
         "!!day",
         "!!days"
     ],
-    "nbt_mode": true,
+    "nbt_mode": false,
     "nbt_file": "server/world/level.dat",
-    "start_date": "2022-01-01",
-    "day_text": "这是服务器开服的第 {day} 天"
+    "start_date": "2023-11-03",
+    "day_text": "LiteTech已经持续运作了{day}天"
 }
