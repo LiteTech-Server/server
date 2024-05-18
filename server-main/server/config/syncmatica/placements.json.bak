@@ -1,0 +1,23 @@
+{
+  "placements": [
+    {
+      "id": "2244e299-5f26-4e7e-a282-f2bcfb321624",
+      "file_name": "莫尔世吞不防雪17区块A",
+      "hash": "2e4eeff2-5cef-3406-91f2-810331fd253b",
+      "origin": {
+        "position": [
+          -7216,
+          79,
+          1357
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "COUNTERCLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "0dfe0d1f-e1e4-4e3e-9712-61b69bf8cc3c",
+        "name": "Malatutou_Reine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "placements": [
+    {
+      "id": "4aea4038-d85d-42ba-b632-5113a11cf781",
+      "file_name": "莫尔世吞不妨雪17区块B",
+      "hash": "36da9c2a-0edf-3897-8a4a-5973573539bd",
+      "origin": {
+        "position": [
+          -6989,
+          86,
+          1357
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "COUNTERCLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "0dfe0d1f-e1e4-4e3e-9712-61b69bf8cc3c",
+        "name": "Malatutou_Reine"
+      }
+    },
+    {
+      "id": "2244e299-5f26-4e7e-a282-f2bcfb321624",
+      "file_name": "莫尔世吞不防雪17区块A",
+      "hash": "2e4eeff2-5cef-3406-91f2-810331fd253b",
+      "origin": {
+        "position": [
+          -7216,
+          79,
+          1357
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "COUNTERCLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "0dfe0d1f-e1e4-4e3e-9712-61b69bf8cc3c",
+        "name": "Malatutou_Reine"
+      }
+    }
+  ]
+}
