@@ -1,3 +1,8 @@
+# Temporary, some servers that are not currently active
+QQbot-server/
+server-beta/
+server-CB/
+
 # MCDR Files
 server-*/qb_multi
 server-*/pb_files
@@ -17,6 +22,9 @@ server-*/server/*
 !server-*/server/waterfall.yml
 !server-*/server/server.properties
 
+# Mirror Server
+server-main/mirror/
+
 # Proxy Server
 server-proxy/modules
 server-proxy/server/locations.yml
@@ -34,7 +42,7 @@ server-*/server/config/carpettisaddition/logger_subscriptions.json
 server-*/server/config/jade/usernamecache.json
 
 # Global
-.vs
+.vs/
 **/logs
 **/crash-reports
 **/.DS_Store
