@@ -1,37 +1,38 @@
-# Temporary, some servers that are not currently active
+# Temporary, some servers that are currently inactive
 QQbot-server/
 server-beta/
 server-CB/
-
-# MCDR Files
-server-*/qb_multi
-server-*/pb_files
-server-*/pcrc
-server-*/plugins
-server-*/permission.yml
-server-*/config/StatsHelper/*
-!server-*/config/StatsHelper/config.json
-
-# Minecraft Files
-server-*/server/*
-!server-*/server/config
-!server-*/server/whitelist.json
-!server-*/server/config.yml
-!server-*/server/locations.yml
-!server-*/server/modules.yml
-!server-*/server/waterfall.yml
-!server-*/server/server.properties
-
-# Mirror Server
 server-main/mirror/
 
-# Proxy Server
-server-proxy/modules
+# MCDR Files
+server-*/qb_multi/
+server-*/pb_files/
+server-*/pcrc/
+server-*/plugins/
+server-*/config/StatsHelper/quick_scoreboard.json
+server-*/config/StatsHelper/uuid.json
+
+# Minecraft Files
+server-*/server/banhammer-sqlite.db
+server-*/server/eula.txt
+server-*/server/ipcache.json
+server-*/server/usercache.json
+server-*/server/.fabric/
+server-*/server/crash-reports/
+server-*/server/journeymap/
+server-*/server/libraries/
+server-*/server/mods/
+server-*/server/recordings/
+server-*/server/syncmatics/
+server-*/server/versions/
+server-*/server/world/
+
+# Waterfall Files
+server-proxy/modules/
+server-proxy/plugins/
 server-proxy/server/locations.yml
 
-# Mod Configs
-*.sparkheap
-.archive-unpack
+# Non-config Files in config/
 server-*/server/config/spark/tmp
 server-*/server/config/luckperms/translations
 server-*/server/config/worldedit/assets
@@ -41,15 +42,24 @@ server-*/server/config/NoChatReports/README.md
 server-*/server/config/carpettisaddition/logger_subscriptions.json
 server-*/server/config/jade/usernamecache.json
 
-# Global
-.vs/
-**/*.html
-**/logs
-**/crash-reports
-**/.DS_Store
-**/*.pdf
+# Trivial Files from Mods
+*.sparkheap
+.archive-unpack
+
+# Other Minecraft Files
 **/*.jar
 **/*.log
-**/*.cmd
-**/nohup.out
+**/logs
+
+# Misc
+.vs/
+*.html
+*.pdf
+*.cmd
+*.db
+*.key
+*.pem
+*.jar
+nohup.out
 "Icon\r"
+.DS_Store
