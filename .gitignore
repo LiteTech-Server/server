@@ -43,6 +43,7 @@ server-*/server/config/jade/usernamecache.json
 
 # Global
 .vs/
+**/*.html
 **/logs
 **/crash-reports
 **/.DS_Store
@@ -51,5 +52,4 @@ server-*/server/config/jade/usernamecache.json
 **/*.log
 **/*.cmd
 **/nohup.out
-Icon?
-Icon
+"Icon\r"
