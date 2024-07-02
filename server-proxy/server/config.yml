@@ -11,7 +11,6 @@ listeners:
       priorities:
           - main
           - creative
-          - beta
       bind_local_address: true
       host: 0.0.0.0:25577
       max_players: 1
@@ -59,4 +58,8 @@ servers:
     beta:
         motd: "&1This is the beta server of LiteTech"
         address: localhost:25560
+        restricted: false
+    mirror:
+        motd: "&1This is the mirror server of LiteTech"
+        address: localhost:25570
         restricted: false
