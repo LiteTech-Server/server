@@ -1,0 +1,94 @@
+{
+    "!!mirror": {
+        "mcsm": {
+            "enable": false,
+            "url": "http://127.0.0.1:23333/",
+            "uuid": null,
+            "remote_uuid": null,
+            "apikey": null
+        },
+        "terminal": {
+            "enable": true,
+            "launch_path": "./mirror",
+            "launch_command": "mcdreforged",
+            "port": 25540,
+            "terminal_name": "Mirror",
+            "regex_strict": false,
+            "system": null
+        },
+        "rcon": {
+            "enable": false,
+            "address": null,
+            "port": null,
+            "password": null
+        },
+        "sync": {
+            "world": [
+                "world"
+            ],
+            "source": "./server",
+            "target": [
+                "./mirror/server"
+            ],
+            "ignore_inexistent_target_path": false,
+            "concurrency": 4,
+            "ignore_files": [
+                "session.lock",
+		"carpet.conf",
+		"pca.conf"
+            ]
+        },
+        "command": {
+            "permission": {
+                "status": 0,
+                "start": 0,
+                "stop": 2,
+                "kill": 3,
+                "sync": 2,
+                "confirm": 0,
+                "abort": 0
+            },
+            "action": {
+                "status": {
+                    "require_confirm": false
+                },
+                "start": {
+                    "require_confirm": false
+                },
+                "stop": {
+                    "require_confirm": true
+                },
+                "kill": {
+                    "require_confirm": true
+                },
+                "sync": {
+                    "ensure_server_closed": true,
+                    "auto_server_restart": false,
+                    "check_status_interval": 5,
+                    "max_attempt_times": 3,
+                    "save_world": {
+                        "turn_off_auto_save": true,
+                        "commands": {
+                            "save_all_worlds": "save-all flush",
+                            "auto_save_off": "save-off",
+                            "auto_save_on": "save-on"
+                        },
+                        "saved_world_regex": "^Saved the game$",
+                        "save_world_max_wait_sec": 60
+                    },
+                    "require_confirm": true
+                },
+                "confirm": {
+                    "timeout": 30,
+                    "cancel_anymsg": true
+                },
+                "abort": {
+                    "operator": "everyone"
+                }
+            }
+        },
+        "display": {
+            "server_name": "mirror"
+        }
+    }
+}
