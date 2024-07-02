@@ -1,5 +1,7 @@
 # README.md
 
+**Only commit safe changes to `main`. Open new branches for updates.**
+
 ## Ports
 
 ### Server
@@ -16,7 +18,7 @@
 
 ### Other WAN Services
 
-| Service | Port  |
-|---------|-------|
-| Netdata | 19999 |
-| SSH     | 22    |
+| Service | Port    |
+|---------|---------|
+| Netdata | `19999` |
+| SSH     | `22`    |

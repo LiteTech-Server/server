@@ -1,0 +1,76 @@
+# This is the permission config and storage file of MCDReforged
+# It is used to storage permission level stuffs of MCDR
+# Available levels (top to down):
+# - owner
+# - admin
+# - helper
+# - user
+# - guest
+
+
+default_level: admin
+
+owner:
+- Fallen_Breath
+- _4rcadia
+admin:
+- fission_li
+- _Babean_
+- Malatutou_Reine
+- BHLuotianyi
+- UncleRoad
+- Test
+- lzy1562
+- S2KNO33C
+- ziyu_caviar
+- Loader
+- Mangelious
+- bot_1
+- bot_2
+- Insane_Rabbit
+- Bot_123
+- bot_3
+- Qonctrol
+- CherryBreath
+- Bot_4
+- RuRuTTa
+- sldkc
+- bot_5
+- bailinp4
+- Trice054
+- Le_Tian_
+- linchien26
+- shao_zi_
+- Is_Onion
+- importboy
+- Bot_Steve
+- NoCodeRockStar
+- Tiking_
+- Hannibal4869
+- RCU_gali
+- Bot_6
+- BOT_7
+- bot_8
+- Bot_9
+- bot_10
+- Bot_11
+- bot_12
+- Bot_13
+- bot_14
+- BOT_15
+- Bot_16
+- FunkierButton85
+- Bot_Test
+- tanh_Heng
+- FQO3
+- ByLong_Ge
+- Cloudandstar722
+- Kindish_Project
+- shadyfy
+- TianQ233
+- xxair
+- creepebucket
+- BoT_S
+helper:
+user:
+guest:
