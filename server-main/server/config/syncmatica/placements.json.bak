@@ -1,18 +1,113 @@
 {
   "placements": [
     {
-      "id": "2244e299-5f26-4e7e-a282-f2bcfb321624",
-      "file_name": "莫尔世吞不防雪17区块A",
-      "hash": "2e4eeff2-5cef-3406-91f2-810331fd253b",
+      "id": "35bb4b97-5aea-4bfe-bbc4-9c5e6481e8e3",
+      "file_name": "海上方舟 无水",
+      "hash": "d5f917f8-9591-3270-a992-b0e2ab4832cc",
       "origin": {
         "position": [
-          -7216,
-          79,
-          1357
+          1908,
+          54,
+          3475
         ],
         "dimension": "minecraft:overworld"
       },
-      "rotation": "COUNTERCLOCKWISE_90",
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "0dfe0d1f-e1e4-4e3e-9712-61b69bf8cc3c",
+        "name": "Malatutou_Reine"
+      }
+    },
+    {
+      "id": "3f0f7650-5c32-4c7c-b495-3b46e496e055",
+      "file_name": "隔三格（长",
+      "hash": "87af35c1-030b-3297-86eb-7239748037d2",
+      "origin": {
+        "position": [
+          304,
+          80,
+          207
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "0dfe0d1f-e1e4-4e3e-9712-61b69bf8cc3c",
+        "name": "Malatutou_Reine"
+      }
+    },
+    {
+      "id": "89d7bc7d-3ca7-4240-94ef-5614b3257151",
+      "file_name": "刷冰机",
+      "hash": "4da856a4-67ac-3aa2-9c90-892538295968",
+      "origin": {
+        "position": [
+          3209,
+          252,
+          5841
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "0dfe0d1f-e1e4-4e3e-9712-61b69bf8cc3c",
+        "name": "Malatutou_Reine"
+      }
+    },
+    {
+      "id": "41ff5e11-db93-4c4e-b7e9-1f2aaf713368",
+      "file_name": "初音",
+      "hash": "5128754e-b768-3d82-b50a-0f773b05f61a",
+      "origin": {
+        "position": [
+          -832,
+          57,
+          -577
+        ],
+        "dimension": "minecraft:the_end"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "dc6b1a23-9b0d-4e17-b2a2-c5a50ca57d85",
+        "name": "Shangggggg"
+      }
+    },
+    {
+      "id": "c5d03129-e00b-45d0-9c6f-6109ad12d0db",
+      "file_name": "主bud链",
+      "hash": "2bb87474-1db8-3b49-bff0-285d0e0632d9",
+      "origin": {
+        "position": [
+          -7209,
+          -63,
+          1206
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "CLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "0dfe0d1f-e1e4-4e3e-9712-61b69bf8cc3c",
+        "name": "Malatutou_Reine"
+      }
+    },
+    {
+      "id": "8446425c-3deb-4899-aa83-bfcacc6b5d45",
+      "file_name": "空置域地板501",
+      "hash": "d7a56422-1d28-3f1b-ac0b-9d23c952b60f",
+      "origin": {
+        "position": [
+          -2160,
+          -59,
+          112
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
       "mirror": "NONE",
       "owner": {
         "uuid": "0dfe0d1f-e1e4-4e3e-9712-61b69bf8cc3c",
