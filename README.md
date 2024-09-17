@@ -1,10 +1,7 @@
 # README.md
 
-<<<<<<< HEAD
-=======
 **Only commit safe changes to `main`. Open new branches for updates.**
 
->>>>>>> 7d72e82baf4b73fa9cdd59b2e042198520fb236f
 ## Ports
 
 ### Server
@@ -21,14 +18,7 @@
 
 ### Other WAN Services
 
-<<<<<<< HEAD
-| Service | Port  |
-|---------|-------|
-| Netdata | 19999 |
-| SSH     | 22    |
-=======
 | Service | Port    |
 |---------|---------|
 | Netdata | `19999` |
 | SSH     | `22`    |
->>>>>>> 7d72e82baf4b73fa9cdd59b2e042198520fb236f
