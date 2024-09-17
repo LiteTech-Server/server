@@ -1,22 +1,22 @@
 {
   "placements": [
     {
-      "id": "364b35f7-2506-44b0-a61d-bd57368ba697",
-      "file_name": "佛冷72K刷冰機_無預填",
-      "hash": "d152d5f7-9944-3b23-88a0-6070afa459dd",
+      "id": "04f1c400-81ee-4022-905c-6e577f752e85",
+      "file_name": "百万收集",
+      "hash": "8f0ed23e-9754-35ff-b15c-edbd4aa6729d",
       "origin": {
         "position": [
-          3209,
-          246,
-          5841
+          172338,
+          83,
+          170749
         ],
         "dimension": "minecraft:overworld"
       },
       "rotation": "NONE",
       "mirror": "NONE",
       "owner": {
-        "uuid": "ec497e17-019b-4fd4-b82c-5fac2041b9eb",
-        "name": "Insane_Rabbit"
+        "uuid": "dc6b1a23-9b0d-4e17-b2a2-c5a50ca57d85",
+        "name": "Shangggggg"
       }
     }
   ]

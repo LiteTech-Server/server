@@ -65,6 +65,10 @@ whitelist:
 - 81852104-fa5b-41a6-aa7c-c90f1623f820
 - 77953c0a-c096-452d-9543-ff9e1009effb
 - 7ec85043-06b4-4597-8bbf-939b4368393d
+- 5ec6f071-2a9a-4719-8e4f-059ad65ba73b
+- dc6b1a23-9b0d-4e17-b2a2-c5a50ca57d85
+- 0ec7652b-68bf-44b4-83b1-1f30f3ca328c
+- b56fdb60-0c50-4b35-93a0-7bc857d79034
 enable-blacklist: false
 lazy-blacklist: null
 blacklist: null
