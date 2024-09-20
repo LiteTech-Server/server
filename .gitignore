@@ -5,27 +5,26 @@ server-CB/
 server-main/mirror/
 
 # MCDR Files
-server-*/qb_multi/
-server-*/pb_files/
-server-*/pcrc/
-server-*/plugins/
-server-*/config/StatsHelper/quick_scoreboard.json
-server-*/config/StatsHelper/uuid.json
+**/qb_multi/
+**/pb_files/
+**/pcrc/
+**/plugins/
+**/config/StatsHelper/quick_scoreboard.json
+**/config/StatsHelper/uuid.json
 
 # Minecraft Files
-server-*/server/banhammer-sqlite.db
-server-*/server/eula.txt
-server-*/server/ipcache.json
-server-*/server/usercache.json
-server-*/server/.fabric/
-server-*/server/crash-reports/
-server-*/server/journeymap/
-server-*/server/libraries/
-server-*/server/mods/
-server-*/server/recordings/
-server-*/server/syncmatics/
-server-*/server/versions/
-server-*/server/world/
+**/server/banhammer-sqlite.db
+**/server/ipcache.json
+**/server/usercache.json
+**/server/.fabric/
+**/server/crash-reports/
+**/server/journeymap/
+**/server/libraries/
+**/server/mods/
+**/server/recordings/
+**/server/syncmatics/
+**/server/versions/
+**/server/world/
 
 # Waterfall Files
 server-proxy/modules/
@@ -33,18 +32,19 @@ server-proxy/plugins/
 server-proxy/server/locations.yml
 
 # Non-config Files in config/
-server-*/server/config/spark/tmp
-server-*/server/config/luckperms/translations
-server-*/server/config/worldedit/assets
-server-*/server/config/worldedit/schematics
-server-*/server/config/worldedit/sessions
-server-*/server/config/NoChatReports/README.md
-server-*/server/config/carpettisaddition/logger_subscriptions.json
-server-*/server/config/jade/usernamecache.json
+**/server/config/spark/tmp
+**/server/config/luckperms/translations
+**/server/config/worldedit/assets
+**/server/config/worldedit/schematics
+**/server/config/worldedit/sessions
+**/server/config/NoChatReports/README.md
+**/server/config/carpettisaddition/logger_subscriptions.json
+**/server/config/jade/usernamecache.json
 
 # Trivial Files from Mods
 *.sparkheap
 .archive-unpack
+**/cache/
 
 # Other Minecraft Files
 **/*.jar
@@ -52,7 +52,6 @@ server-*/server/config/jade/usernamecache.json
 **/logs
 
 # Misc
-.vs/
 *.html
 *.pdf
 *.cmd

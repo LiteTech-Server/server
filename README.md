@@ -12,8 +12,9 @@
 
 | Name                       | Port    |
 |----------------------------|---------|
+| BE Default                 | `19132` |
 | Waterfall                  | `25577` |
-| Main Server                | `25565` |
+| Main Server (JE Default)   | `25565` |
 | Creative Server            | `25570` |
 | Mirror Server (not up yet) | `25575` |
 | BitCraft for @bailinp4     | `25580` |
