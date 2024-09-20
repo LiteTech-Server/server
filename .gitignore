@@ -9,8 +9,7 @@ server-main/mirror/
 **/pb_files/
 **/pcrc/
 **/plugins/
-**/config/StatsHelper/quick_scoreboard.json
-**/config/StatsHelper/uuid.json
+**/config/StatsHelper/
 
 # Minecraft Files
 **/server/banhammer-sqlite.db
