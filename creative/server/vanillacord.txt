@@ -1,0 +1,10 @@
+# Welcome to the VanillaCord configuration.
+version = 2.0
+
+# Here, you can set which forwarding standard to enable.
+# Valid options: bungeecord, bungeeguard, velocity
+forwarding = bungeecord
+
+# Some forwarding standards require a seecret key to function.
+# Specify that here. Repeat this line to specify multiple.
+seecret = 
