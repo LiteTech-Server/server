@@ -118,3 +118,11 @@ debug:
 
 # Options below were missing and set by MCDR with the default value
 # Remember to check and update them as soon as possible
+catalogue_meta_cache_ttl: 1200
+catalogue_meta_fetch_timeout: 15
+catalogue_meta_url:
+plugin_download_url:
+plugin_download_timeout: 15
+plugin_pip_install_extra_args:
+http_proxy:
+https_proxy:
