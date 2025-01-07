@@ -30,10 +30,10 @@ permissions:
   - bungeecord.command.kick
 log_pings: true
 connection_throttle_limit: 3
-server_connect_timeout: 5000
-timeout: 30000
-stats: add0ad36-27a7-4382-a4ac-a982cf8ebf2f
+server_connect_timeout: 120000
+timeout: 120000
 player_limit: -1
+prevent_proxy_connections: false
 ip_forward: true
 groups:
   md_5:
@@ -41,7 +41,7 @@ groups:
 remote_ping_timeout: 5000
 connection_throttle: 4000
 log_commands: false
-prevent_proxy_connections: false
+stats: add0ad36-27a7-4382-a4ac-a982cf8ebf2f
 online_mode: true
 forge_support: false
 disabled_commands:

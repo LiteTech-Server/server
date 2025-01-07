@@ -93,6 +93,7 @@ debug:
   permission: false
   command: false
   task_executor: false
+  telemetry: false
 # =========================================
 # |         Missing Configuration         |
 # =========================================
@@ -107,3 +108,4 @@ plugin_download_timeout: 15
 plugin_pip_install_extra_args:
 http_proxy:
 https_proxy:
+telemetry: true

@@ -10,6 +10,7 @@ server-main/mirror/
 **/pcrc/
 **/plugins/
 **/config/StatsHelper/
+*.xz
 
 # Minecraft Files
 **/server/banhammer-sqlite.db
