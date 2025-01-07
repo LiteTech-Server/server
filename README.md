@@ -6,6 +6,11 @@
 
 </center>
 
+## Todo
+
+- [ ] Correctly configure ViaVersion
+- [ ] Setup mirror server
+
 ## Ports
 
 ### Server
