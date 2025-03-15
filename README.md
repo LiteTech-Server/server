@@ -22,10 +22,11 @@
 | Main Server (JE Default)   | `25565` |
 | Creative Server            | `25570` |
 | Mirror Server (not up yet) | `25575` |
-| BitCraft for @bailinp4     | `25580` |
-| (Reserved #2)              | `25585` |
-| (Reserved #3)              | `25590` |
+| (Reserved #1)              | `25580` |
+| Lend to @S2KNO33C          | `25585` |
+| OceanBlock2                | `25590` |
 | (Reserved #4)              | `25595` |
+| (Reserved #5)              | `25600` |
 
 ### Other WAN Services
 

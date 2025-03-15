@@ -1,39 +1,50 @@
 # MCDR Files
-server-*/qb_multi
-server-*/pb_files
-server-*/pcrc
-server-*/plugins
-server-*/permission.yml
-server-*/config/StatsHelper/*
-!server-*/config/StatsHelper/config.json
-server-*/config/StatsHelper/uuid.json
+qb_multi
+pb_files
+pcrc
+plugins
+permission.yml
+config/StatsHelper/*
+!*/**/config/StatsHelper/config.json
+config/StatsHelper/uuid.json
+
+# Serverst
+bitcraft/*
+creative/*
+main/*
+ob2/*
+qqbot/*
+s2kno33c/*
+waterfall/*
+viatest/*
+chatbridge/*
 
 # Minecraft Files
-server-*/server/*
-!server-*/server/config
-!server-*/server/whitelist.json
-!server-*/server/config.yml
-!server-*/server/locations.yml
-!server-*/server/modules.yml
-!server-*/server/waterfall.yml
-!server-*/server/server.properties
+!*/**/config
+!*/**/server/config
+!*/**/server/whitelist.json
+!*/**/server/config.yml
+!*/**/server/locations.yml
+!*/**/server/modules.yml
+!*/**/server/waterfall.yml
+!*/**/server/server.properties
 
 # Proxy Server
-server-proxy/modules
-server-proxy/start.cmd
-server-proxy/*.jar
+waterfall/modules
+waterfall/start.cmd
+waterfall/*.jar
 
 # Mod Configs
-server-*/server/config/spark/tmp
+config/spark/tmp
 *.sparkheap
-server-*/server/config/luckperms/translations
-server-*/server/config/worldedit/assets
-server-*/server/config/worldedit/schematics
-server-*/server/config/worldedit/sessions
 .archive-unpack
-server-*/server/config/NoChatReports/README.md
-server-*/server/config/carpettisaddition/logger_subscriptions.json
-server-*/server/config/jade/usernamecache.json
+server/config/luckperms/translations
+server/config/worldedit/assets
+server/config/worldedit/schematics
+server/config/worldedit/sessions
+server/config/NoChatReports/README.md
+server/config/carpettisaddition/logger_subscriptions.json
+server/config/jade/usernamecache.json
 
 # Global
 logs
@@ -43,3 +54,7 @@ crash-reports
 /.vs
 .DS_Store
 *.pdf
+
+# Unclassified
+main/config/mcdreforged/catalogue_meta_cache.json.xz
+bitcraft/config/floodgate/key.pem
