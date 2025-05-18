@@ -8,7 +8,8 @@ export MIRROR_ONE_HOME=$SURVIVAL_HOME/"mirror1"
 export MIRROR_TWO_HOME=$SURVIVAL_HOME/"mirror2"
 export BITCRAFT_HOME="bitcraft"
 export WATERFALL_HOME="waterfall"
-export S2KNO33C_HOME="server-s2kno33c"
+export S2KNO33C_HOME="s2kno33c"
+export OB2_HOME="ob2"
 
 if [ "$1" == "cb" ]; then
     # echo "Starting ChatBridge Server..."
@@ -30,6 +31,12 @@ elif [ "$1" == "bitcraft" -o "$1" == "bit" ]; then
 elif [ "$1" == "s2kno33c" -o "$1" == "s2k" ]; then
     echo "Starting s2kno33c's server..."
     java -Xms2G -Xmx8G -jar $SERVER_HOME/$S2KNO33C_HOME/server/server.jar nogui
+    exit 0
+elif [ "$1" == "ob2" ]; then
+    echo "Starting OB2..."
+    pushd $SERVER_HOME/$OB2_HOME/server
+    ./run.sh
+    popd
     exit 0
 else
     echo "Wrong parameters."
