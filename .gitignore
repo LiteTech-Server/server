@@ -8,16 +8,12 @@ config/StatsHelper/*
 !*/**/config/StatsHelper/config.json
 config/StatsHelper/uuid.json
 
-# Serverst
-bitcraft/*
+# Server
 creative/*
 main/*
-ob2/*
-qqbot/*
-s2kno33c/*
 waterfall/*
-viatest/*
-chatbridge/*
+s2kno33c/*
+modpack/*
 
 # Minecraft Files
 !*/**/config
@@ -54,6 +50,8 @@ crash-reports
 /.vs
 .DS_Store
 *.pdf
+*.zip
+*.tar.gz
 
 # Unclassified
 main/config/mcdreforged/catalogue_meta_cache.json.xz
