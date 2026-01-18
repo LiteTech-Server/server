@@ -1,3 +1,19 @@
+############################################################
+# Top-level policy: ignore everything except server dirs
+############################################################
+/*
+!.gitignore
+# The server directories listed below are explicitly allowed.
+# Note: later ignore lines (the original "# Server" block)
+# are preserved exactly as they were in the file.
+!creative/
+!creative/**
+!main/
+!main/**
+!waterfall/
+!waterfall/**
+# End global-ignore block
+
 # MCDR Files
 qb_multi
 pb_files
