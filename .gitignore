@@ -15,60 +15,58 @@
 # End global-ignore block
 
 # MCDR Files
-qb_multi
+!*/**/config/StatsHelper/config.json
+config/StatsHelper/*
+config/StatsHelper/uuid.json
 pb_files
 pcrc
-plugins
 permission.yml
-config/StatsHelper/*
-!*/**/config/StatsHelper/config.json
-config/StatsHelper/uuid.json
+plugins
+qb_multi
 
 # Server
 creative/*
 main/*
 waterfall/*
-s2kno33c/*
-modpack/*
 
 # Minecraft Files
 !*/**/config
 !*/**/server/config
-!*/**/server/whitelist.json
 !*/**/server/config.yml
 !*/**/server/locations.yml
 !*/**/server/modules.yml
-!*/**/server/waterfall.yml
 !*/**/server/server.properties
+!*/**/server/waterfall.yml
+!*/**/server/whitelist.json
 
 # Proxy Server
+waterfall/*.jar
 waterfall/modules
 waterfall/start.cmd
-waterfall/*.jar
 
 # Mod Configs
-config/spark/tmp
-*.sparkheap
 .archive-unpack
+*.sparkheap
+config/spark/tmp
+server/config/carpettisaddition/logger_subscriptions.json
+server/config/jade/usernamecache.json
 server/config/luckperms/translations
+server/config/NoChatReports/README.md
 server/config/worldedit/assets
 server/config/worldedit/schematics
 server/config/worldedit/sessions
-server/config/NoChatReports/README.md
-server/config/carpettisaddition/logger_subscriptions.json
-server/config/jade/usernamecache.json
 
 # Global
-logs
-crash-reports
-*.log
-/.vs/LiteTech/FileContentIndex
-/.vs
 .DS_Store
+*.log
 *.pdf
-*.zip
 *.tar.gz
+*.zip
+/.vs
+/.vs/LiteTech/FileContentIndex
+crash-reports
+logs
 
 # Unclassified
-main/config/mcdreforged/catalogue_meta_cache.json.xz
 bitcraft/config/floodgate/key.pem
+main/config/mcdreforged/catalogue_meta_cache.json.xz
